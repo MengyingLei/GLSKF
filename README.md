@@ -1,6 +1,6 @@
-# GLSKF: Generalized Least Squares Kernelized Tensor Factorization
+# Generalized Least Squares Kernelized Tensor Factorization
 
-Mengying Lei, Lijun Sun $^*$ [[paper](https://arxiv.org/pdf/2412.07041v2)]
+Mengying Lei, Lijun Sun $^*$ [[paper](https://arxiv.org/pdf/2412.07041)]
 
 `Citation`
 ```
