@@ -1,6 +1,7 @@
 # Generalized Least Squares Kernelized Tensor Factorization
 
-Mengying Lei, Lijun Sun $^*$ [[arXiv](https://arxiv.org/pdf/2412.07041)]
+Mengying Lei, Lijun Sun\* [[arXiv](https://arxiv.org/pdf/2412.07041)]  
+\* Corresponding author
 
 **bibtex**
 ```bibtex
