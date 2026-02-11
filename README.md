@@ -2,8 +2,6 @@
 
 Mengying Lei, Lijun Sun\* [[arXiv](https://arxiv.org/pdf/2412.07041)]  
 \* Corresponding author
-
-**bibtex**
 ```bibtex
 @article{lei2024glskf,
   title={Generalized Least Squares Kernelized Tensor Factorization},
